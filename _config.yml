@@ -15,11 +15,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable  }}.
 
-name: ???
+name: JThanat
 title: CERN Summer Student Devlog
 description: Tracking progress on femtocode
 
-gh_name: ???
+gh_name: JThanat
 gh_commits: https://github.com/JThanat/DevlogTemplate/tree/gh-pages
 gh_prs: https://github.com/JThanat/DevlogTemplate/pulls
 gh_project: https://github.com/JThanat/DevlogTemplate
